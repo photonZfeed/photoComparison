@@ -39,4 +39,4 @@ number P2019-0110) is gratefully acknowledged.
 
 ## Recommended Citation
 
-Cite this repository with the Zenodo DOI: *to be added*
+Cite this repository with the Zenodo DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5911869.svg)](https://doi.org/10.5281/zenodo.5911869)
